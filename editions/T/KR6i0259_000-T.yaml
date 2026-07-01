@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0259/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說自誓三昧經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0622.xml
+    old_id: T15n0622
+hash: sha256:a43bb39e69930c2fff15d2af3a92642ecff6169e95e879a52ca4efa09cdfb9e0

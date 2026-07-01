@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6i0259/v1
+canonical_location: https://kanripo.org/bkk/KR6i0259/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說自誓三昧經
+  identifiers:
+    alt_id:
+    - T15n0622
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0622.xml
+    old_id: T15n0622
+  edition:
+    short: bkk
+editions:
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0259_000.yaml, hash: 'sha256:a43bb39e69930c2fff15d2af3a92642ecff6169e95e879a52ca4efa09cdfb9e0'}
+  - {seq: 1, filename: KR6i0259_001.yaml, hash: 'sha256:a66568279a8dcc6f2d93587a8471452a9f96e661f4c710638d1fbdaecc7e24ae'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0259_001.markers.yaml, hash: 'sha256:1f68b1e51c3fd61335be4dedbcf98a40ad89646e900ae2165daf7a72a563d494'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0259_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3362
+  label: 佛說自誓三昧經獨證品第四出比丘淨行中
+  type: juan
+  level: 1
+hash: sha256:0f6a3df2c7c7e7018a57ff3de247b2f59284d134d9e6b5cc4e8c9115586b9298
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
