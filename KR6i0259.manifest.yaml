@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0259_000.yaml, hash: 'sha256:a43bb39e69930c2fff15d2af3a92642ecff6169e95e879a52ca4efa09cdfb9e0'}
-  - {seq: 1, filename: KR6i0259_001.yaml, hash: 'sha256:a66568279a8dcc6f2d93587a8471452a9f96e661f4c710638d1fbdaecc7e24ae'}
+  - {seq: 1, filename: KR6i0259_001.yaml, hash: 'sha256:ab520b3ab6b662d40eba254e0b03cb0da446bfab89c78e07b45c27f39f3faeee'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0259_001.markers.yaml, hash: 'sha256:1f68b1e51c3fd61335be4dedbcf98a40ad89646e900ae2165daf7a72a563d494'}
+  - {seq: 0, role: markers, filename: assets/KR6i0259_000.markers.yaml, hash: 'sha256:c4b2615dcec16afbceeb038193c31709e6903b5a5c0c49f26c7f543b0f5e251d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0259_001.markers.yaml, hash: 'sha256:77a226e2a51d47c34d8fcf52eb82c3642cd8ad7a82960e4b00dd19fa9969abf9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說自誓三昧經獨證品第四出比丘淨行中
   type: juan
   level: 1
-hash: sha256:0f6a3df2c7c7e7018a57ff3de247b2f59284d134d9e6b5cc4e8c9115586b9298
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f61479e87ba9b3da2b43b11e2260bf8161848e6a48e2409da20b6c5bf867fd0d
