@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0259/v1
 canonical_location: https://kanripo.org/bkk/KR6i0259/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說自誓三昧經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0259_000.yaml, hash: 'sha256:a43bb39e69930c2fff15d2af3a92642ecff6169e95e879a52ca4efa09cdfb9e0'}
-  - {seq: 1, filename: KR6i0259_001.yaml, hash: 'sha256:ab520b3ab6b662d40eba254e0b03cb0da446bfab89c78e07b45c27f39f3faeee'}
+  - {seq: 1, filename: KR6i0259_001.yaml, hash: 'sha256:74f6dc5b71928fd608b1fbe2b8518bb61f94641ddbabbaf2066939a5a4c69774'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0259_000.markers.yaml, hash: 'sha256:c4b2615dcec16afbceeb038193c31709e6903b5a5c0c49f26c7f543b0f5e251d'}
-  - {seq: 1, role: markers, filename: assets/KR6i0259_001.markers.yaml, hash: 'sha256:77a226e2a51d47c34d8fcf52eb82c3642cd8ad7a82960e4b00dd19fa9969abf9'}
+  - {seq: 1, role: markers, filename: assets/KR6i0259_001.markers.yaml, hash: 'sha256:5ab2ea3831ed6b42717752f1eb3a0891e90b1141407fdea40639f29fb4c23b26'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說自誓三昧經獨證品第四出比丘淨行中
   type: juan
   level: 1
-hash: sha256:f61479e87ba9b3da2b43b11e2260bf8161848e6a48e2409da20b6c5bf867fd0d
+hash: sha256:6de9a45bd6e0a16f5098f13b0dc653e443da8f3595ceee17230c4caa3bd74e3c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
